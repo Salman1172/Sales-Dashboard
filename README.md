@@ -1,6 +1,6 @@
 # 📊 Mobile Sales Performance Dashboard – Power BI
 
-This Power BI dashboard provides an interactive overview of mobile phone sales performance for Motorola across different Indian cities and timeframes. It is designed to assist stakeholders in analyzing total sales, quantities sold, transactions, and customer engagement patterns effectively.
+This Power BI dashboard provides an interactive overview of mobile phone sales performance for across different Indian cities and timeframes. It is designed to assist stakeholders in analyzing total sales, quantities sold, transactions, and customer engagement patterns effectively.
 
 ## 🔍 Key Features
 
