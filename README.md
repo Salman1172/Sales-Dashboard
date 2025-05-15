@@ -43,7 +43,7 @@ The dashboard aims to provide actionable insights for sales managers and analyst
 
 ## 📷 Screenshot
 
-![Sales Dashboard](./path-to-your-image/Sales%20Dashboard.png)
+![Sales Dashboard](https://github.com/Salman1172/Sales-Dashboard/blob/main/Sales%20Dashboard.png)
 
 ---
 
